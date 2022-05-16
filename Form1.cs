@@ -41,8 +41,7 @@ namespace TicTacToe
 
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Acesta este un joc creat de Andrei Lipsa!  Daca doriti mai multe detalii, informatine la urmatoarea adresa de e-mail: lipsaandrei2003@gmail.com", "Despre TicTacToe");
-            
+            MessageBox.Show("Acesta este un joc creat de Andrei Lipsa! Daca doriti mai multe detalii, informati-ne la urmatoarea adresa de e-mail: lipsaandrei2003@gmail.com", "Despre TicTacToe");
         }
 
         private void exitToolStripMenuItem_Click(object sender, EventArgs e)
